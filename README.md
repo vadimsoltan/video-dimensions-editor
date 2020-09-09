@@ -13,6 +13,11 @@ Doublelcick on the video selecting three points. See example below:
 - **Second point**: describes the height of the cropped video.
 - **Third point**: describes the width of the cropped video.
 
+To save the video press the `s` key.
+To exit the looping video press the `q` key.
+
 ### Requirements
 
 - opencv-python
+
+To install dependencies run `pip3 install requirements.txt`
