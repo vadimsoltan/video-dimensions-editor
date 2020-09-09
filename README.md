@@ -20,4 +20,4 @@ To exit the looping video press the `q` key.
 
 - opencv-python
 
-To install dependencies run `pip3 install requirements.txt`
+To install dependencies run `pip3 install -r requirements.txt`
