@@ -2,7 +2,7 @@
 
 ### Edits a video based on the specified dimensions.
 
-## How to Run:
+## How to Run
 
 To run the editor use command line: `python3 main.py [Your video path]`
 
