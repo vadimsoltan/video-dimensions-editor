@@ -16,7 +16,7 @@ def main():
     get_cropping_dimensions(sys.argv[1])
 
 
-def get_cropping_dimensions(video_location):
+def get_cropping_dimensions(video_location: str) -> None:
     '''
     Cropping loop function. Prompts user to select three points indicating area to be cropped.
     : param video_location: Path to the video that is to be cropped
